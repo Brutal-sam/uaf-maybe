@@ -4,6 +4,7 @@ exploitability not determined, this may or may not be useful.
 
 the second run should return "A" in rax 
 
+```
 # signal: 4 (SIGILL)
 # thread ID: 101798
 # thread name: SceNKWebProcessMain
@@ -26,4 +27,4 @@ the second run should return "A" in rax
 # lb2: 000000082039d566  lb3: 000000082039c5f0
 # lb4: 00000008206e21a7  lb5: 00000008206e2152
 # lb6: 00000008206e208c  lb7: 000000082039e632
-
+```
