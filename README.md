@@ -1,6 +1,6 @@
-Webkit Use After Free in EventTarget.
-Tested on PS5 11.20.(may work up to the latest fw)
-exploitability not determined, this may or may not be useful.
+- Webkit Use After Free in EventTarget.
+- Tested on PS5 11.20.(may work up to the latest fw)
+- exploitability not determined, this may or may not be useful.
 
 the second run should return "A" in rax 
 
