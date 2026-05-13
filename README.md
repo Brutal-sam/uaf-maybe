@@ -1,8 +1,10 @@
 - Webkit Use After Free in EventTarget.
-- Tested on PS5 11.20.(may work up to the latest fw)
+- Tested on PS5 11.20. (the crash happens on the latest fw 13.20 as well)
 - exploitability not determined, this may or may not be useful.
 
 the second run should return "A" in rax 
+this is just a crash html, it doesn't attempt to control rip or leak anything.
+whether it can be Exploited or not will be determined by developers 
 
 ```
 # signal: 4 (SIGILL)
